@@ -1,0 +1,16 @@
+<resources>
+    <string name="more_apps_title">More apps</string>
+    <string name="more_apps_intro">Explore other DolomiteByte apps on Google Play.</string>
+    <string name="more_apps_open_store">View on Google Play</string>
+    <string name="more_apps_back">Back</string>
+    <string name="more_apps_pubdash_name">Pubdash</string>
+    <string name="more_apps_pubdash_summary">Track publisher earnings and ad spending.</string>
+    <string name="more_apps_tookaction_name">TookAction</string>
+    <string name="more_apps_tookaction_summary">Plan tasks, reminders and habits.</string>
+    <string name="more_apps_fileco_name">Fileco</string>
+    <string name="more_apps_fileco_summary">Convert files privately on your device.</string>
+    <string name="more_apps_everscan_name">Everscan</string>
+    <string name="more_apps_everscan_summary">Scan documents and create searchable PDFs.</string>
+    <string name="more_apps_therabuddy_name">TheraBuddy</string>
+    <string name="more_apps_therabuddy_summary">Keep therapy, medication and wellbeing notes together.</string>
+</resources>
